@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.Arr {
+  display: flex;
+  flex-direction: row;
+  height: 400px;
+  margin: 10vh;
+  justify-content: space-between
+}
+
+
+
